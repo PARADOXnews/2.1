@@ -59,6 +59,33 @@
    
 }
 
+#join {
+   width: 204px;
+   padding: 16px 24px;
+   display:inline-block;
+   border-radius: 8px;
+   background: #5C3BAE;
+   color:#FFFFFF;
+   font-size: 18px;
+   margin-right:20px
+}
+
+#watch {
+   color: #4D3491;
+   font-family: Inter;
+   font-size: 18px;
+}
+
+#watchicon {
+   margin-top:5px;
+   margin-right:5px;
+   margin-bottom: -10px;
+   display: inline-block;
+}
+
+
+
+
 
 #cardiv{
    text-align:right;
