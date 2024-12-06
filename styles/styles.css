@@ -1,0 +1,72 @@
+* {
+   font-family: lato;
+   box-sizing: border-box;
+}
+
+#nav {
+   width: 1140px;
+}
+
+#next {
+   display: inline-block;
+   margin-bottom: -18px;
+   margin-right:24%;
+}
+
+#ul {
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+   display: inline-block;
+   margin-bottom: 20px;
+   text-align:center;
+}
+
+#li1,#li2,#li3,#li4 {
+   display: inline-block;
+   margin-right:20px;
+   
+}
+
+#contact {
+   display:inline-block;
+   padding:5px 10px;
+   margin-left:24%;
+   border-radius: 8px;
+   border: 1px solid #AC00FF;
+   background: #E9D7FE;
+   color: #AC00FF;
+}
+
+#textdiv {
+   width:841px;
+   margin-left:150px;
+}
+
+#titleh1 {
+   width:720px;
+   font-size: 64px;
+   font-family: Impact;
+   font-weight: 400;
+
+}
+
+#textdivp {
+   font-family: "Inria Sans";
+   font-size: 24px;
+   font-weight: 400;
+   line-height: 32px;
+   
+}
+
+
+#cardiv{
+   text-align:right;
+   
+}
+
+#card {
+   display:inline-block;
+   margin-top:-120px;
+   width:1211px;
+}
